@@ -1,0 +1,5 @@
+{
+  "name": "BTP Manager SaaS",
+  "description": "A multi-tenant SaaS application for construction site management (BTP) featuring Dashboard, Construction Sites (Chantiers), and Purchases (Achats) management.",
+  "requestFramePermissions": []
+}
